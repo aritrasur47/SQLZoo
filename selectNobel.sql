@@ -78,7 +78,7 @@ WHERE yr = 1984
 ORDER BY subject IN ('Physics','Chemistry'), subject, winner;
 
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 #1. Pick the code which shows the name of winner's names beginning with C and ending in n.
 SELECT winner FROM nobel

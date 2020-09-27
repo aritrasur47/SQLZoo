@@ -72,7 +72,7 @@ SELECT name, REPLACE(capital, name, '') AS nameextension
 FROM world
 WHERE capital LIKE concat(name, '%') AND capital <> name;
 
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 #BBC QUIZ
 
